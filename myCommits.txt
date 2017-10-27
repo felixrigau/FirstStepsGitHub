@@ -1,0 +1,11 @@
+commit 998b2decae77c07217747e26a2de2a46a0d71032
+Author: Felix <felixrigau88@gmail.com>
+Date:   Fri Oct 27 15:37:30 2017 +0200
+
+    Primeros cambios guardados
+
+commit c758382a57fe77521c20560f7006c54d29133beb
+Author: Felix <felixrigau88@gmail.com>
+Date:   Fri Oct 27 14:45:59 2017 +0200
+
+    Creando primeros archivos
